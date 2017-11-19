@@ -1,0 +1,12 @@
+reverse code
+
+0 = 5-7 days or nearly every day for 2 weeks
+1 = 3-4 days
+2 = 1-2 days
+3 = not at all or less than 1 day
+
+CESD 4 - I felt that I was just as good as other people
+CESD 8 - I felt hopeful about the future
+CESD 12 - I was happy
+CESD 16 - I enjoyed life
+
