@@ -80,6 +80,9 @@ h3 %>%
 # remove missing values
 cmtx <- cor(h2.cesd20, use="complete.obs",
             method="pearson")
+
+# view top 5 rows and cols
+cmtx[1:5,1:5]
          
 # load the psych package
 library(psych)
